@@ -97,7 +97,7 @@ One user wanted to see the top five podcasts on Stitcher. I added the following 
 
 ## Navigation
 
-There was an issue with the navigation links not appearing on each page with the user profile image in the top corner. Fixing this involved making sure each html template was pointing to the nav.html file and modifying the nav.html to pull the image from our user db model. 
+There was an issue with the navigation links not appearing on each page with the user profile image in the top corner. Fixing this involved making sure each html template placeholder was pointing to the nav.html file and modifying the nav.html to pull the image from our user db model. 
 
 ## Dashboard Layout
 
