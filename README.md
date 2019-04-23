@@ -112,8 +112,9 @@ I also configured the dashboard replacing various images representing each app w
 
 # Takeaways
 
+* Good project management software is key to team workflow and communication. 
 * Coding can seem personal as if YOU have to figure everything out on your own but making contributions and studying your team's code keeps the wheels turning.
 * Sharing ideas and code logic in Standups can help someone with a similar problem get unstuck.
-* Good project management software is key to team workflow and communication. 
+
 
 [Back to top](#live-project)
